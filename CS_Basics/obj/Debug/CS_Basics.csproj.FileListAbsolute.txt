@@ -1,0 +1,8 @@
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\bin\Debug\CS_Basics.exe.config
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\bin\Debug\CS_Basics.exe
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\bin\Debug\CS_Basics.pdb
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\obj\Debug\CS_Basics.csproj.AssemblyReference.cache
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\obj\Debug\CS_Basics.csproj.SuggestedBindingRedirects.cache
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\obj\Debug\CS_Basics.csproj.CoreCompileInputs.cache
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\obj\Debug\CS_Basics.exe
+C:\Users\BS898\OneDrive - Brain Station 23 Ltd\Desktop\C#\CS_Basics\CS_Basics\obj\Debug\CS_Basics.pdb
